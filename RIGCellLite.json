@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "RIG by REKA",
+      "name": "RIG",
       "maintainer": "RIGbyREKA",
       "websiteURL": "https://reka.com.my/metier/artifact/rig/",
       "email": "muzzammil@reka.com.my",
@@ -22,8 +22,7 @@
           "checksum": "SHA-256:7782325c9279f478e9d91fb5eb3d8aff75b317e03ed3f3a149acefdf4937bf91",
           "size": "2483",
           "boards": [
-            {"name": "RIG CELL Lite V1.1"},
-            {"name": "RIG GEO"}
+            {"name": "RIG CELL Lite V1.1"}
           ],
           "toolsDependencies": [
             {
