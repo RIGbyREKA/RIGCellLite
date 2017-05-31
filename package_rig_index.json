@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "RIG",
+      "maintainer": "REKA",
+      "websiteURL": "https://reka.com.my/metier/artifact/rig/",
+      "email": "muzzammil@reka.com.my",
+      "help": {
+        "online": "https://reka.com.my/metier/artifact/rig/"
+      },
+      "platforms": [
+        {
+          "name": "RIG by REKA",
+          "architecture": "avr",
+          "version": "1.1.0",
+          "category": "ATmega",
+          "help": {
+            "online": "https://reka.com.my/metier/artifact/rig/"
+          },
+          "url": "https://github.com/RIGbyREKA/RIGCellLite/blob/master/rigcelllite.zip?raw=true",
+          "archiveFileName": "rigcelllite.zip",
+          "checksum": "SHA-256:686d82653547363a77767aec38fd07efc1a8c12cffd95c092f4495032fcb331d",
+          "size": "2622",
+          "boards": [
+            {"name": "RIG CELL Lite"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
