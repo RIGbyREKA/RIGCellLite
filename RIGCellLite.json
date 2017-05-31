@@ -12,7 +12,7 @@
         {
           "name": "RIG",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "category": "ATmega",
           "help": {
             "online": "https://reka.com.my/metier/artifact/rig/"
